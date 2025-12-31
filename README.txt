@@ -9,12 +9,12 @@ Anotace projektu: Tento projekt představuje interaktivní kurz základů progra
 
 ---
 
-Paper: ./resources/csharp-course-methodology-paper.pdf
+Paper: resources/csharp-course-methodology-paper.pdf
 
 Obrázky, screenshoty, videa:
- - ./resources/Programmer_Card.pdf
- - ./resources/C#_card.fig
- - ./resources/image-assets/vs-download.png
+ - resources/Programmer_Card.pdf
+ - resources/C#_card.fig
+ - resources/image-assets/vs-download.png
 
 Reflexe: /resources/csharp-course-methodology-reflection.pdf
 
