@@ -39,8 +39,6 @@ Tento projekt představuje interaktivní kurz základů programování v C# urč
  - [Zdrojový Figma soubor pro úpravu karty programátora](./resources/C#%20card.fig)
  - [Instalace Visual Studia](./resources/image-assets/vs-download.png)
 
-...
-
 ## Soubory
 
  - `cheatsheets/` - rychlé referenční příručky pro studenty rozdělené podle úrovně lekce (L1 až L5)
