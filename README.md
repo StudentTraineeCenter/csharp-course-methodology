@@ -31,7 +31,7 @@ Tento projekt představuje interaktivní kurz základů programování v C# urč
 
 ## Paper
 
-[Odkaz na paper](./resources/csharp-course-methodology-paper.docx)
+[Odkaz na paper](./resources/csharp-course-methodology-paper.pdf)
 
 ## Obrázky, screenshoty, videa
 
